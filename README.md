@@ -20,8 +20,8 @@
 
 ### 3. Project descripition
 
-**Title** | **Sub1** | **Sub2**
---- | --- | ---
+**Title** | **Sub1** | **Sub2** | **Sub3**
+--- | --- | --- | --- | ---
 *History* | Monitor | Pretty
 *Technology* | `renders` | **nicely**
 *Measurements of performence* | 2 | 3
