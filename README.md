@@ -20,8 +20,9 @@
 
 ### 3. Project descripition
 
-Markdown | Monitor | Pretty
+*History* | Monitor | Pretty
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Technology* | `renders` | **nicely**
+*Measurements of performence* | 2 | 3
+*Additional Features* | 2 | 3
 
