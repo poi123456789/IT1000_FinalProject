@@ -18,6 +18,6 @@
     
     
 
-![Image of Yaktocat](https://octodex.github.com/img/yaktocat.png)
+![Image of Monitor](https://github.com/poi123456789/IT2600_FinalProject/blob/master/img/c04938915.png)
     
 ### 3. 
