@@ -21,7 +21,6 @@
 ### 3. Project descripition
 
 *History* | Monitor | Pretty
---- | --- | ---
 *Technology* | `renders` | **nicely**
 *Measurements of performence* | 2 | 3
 *Additional Features* | 2 | 3
