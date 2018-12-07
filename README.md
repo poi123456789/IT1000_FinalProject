@@ -20,7 +20,7 @@
 
 ### 3. Project descripition
 
-Markdown | Less | Pretty
+Markdown | Monitor | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
