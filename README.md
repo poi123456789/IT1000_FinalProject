@@ -17,7 +17,8 @@
        tuner and speakers, it may not be possible to use a computer monitor as a television without external components.
     
     
-
+![Image of Monitor](https://github.com/poi123456789/IT2600_FinalProject/blob/master/img/download%20(3).jpg)
 ![Image of Monitor](https://github.com/poi123456789/IT2600_FinalProject/blob/master/img/c04938915.png)
+![Image of Monitor](https://github.com/poi123456789/IT2600_FinalProject/blob/master/img/download%20(3).jpg)
     
 ### 3. 
