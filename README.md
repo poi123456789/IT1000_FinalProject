@@ -22,7 +22,7 @@
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
 --- | --- | --- | --- 
-*History* | [Introduction]((https://www.google.com))|  |  
+*History* | [Introduction](https://www.google.com)|  |  
 *Technology* | **Cathode ray tube** | **Liquid crystal display** | **Organic light-emitting diode**
 *Measurements of performence* |**Size**| **Aspect ratio** | **Resolution**
 *Additional Features* | **Curved Design** | **3D** | **Touch Screen** | 
