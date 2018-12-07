@@ -22,8 +22,8 @@
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
 --- | --- | --- | --- | ---
-*History* | Monitor | Pretty
-*Technology* | `renders` | **nicely**
-*Measurements of performence* | 2 | 3
-*Additional Features* | 2 | 3
+*History* | Monitor | Pretty | Monitor | Pretty
+*Technology* | `renders` | **nicely** | Monitor | Pretty
+*Measurements of performence* | 2 | 3 | Monitor | Pretty
+*Additional Features* | 2 | 3 | Monitor | Pretty
 
