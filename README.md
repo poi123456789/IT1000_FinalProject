@@ -22,8 +22,8 @@
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
 --- | --- | --- | --- 
-*History* | **Introduction** |  |  
-*Technology* | `renders` | **nicely** | Monitor 
-*Measurements of performence* | 2 | 3 | Monitor
-*Additional Features* | 2 | 3 | Monitor | 
+*History* | **Introduction((https://www.google.com))** |  |  
+*Technology* | **Cathode ray tube** | **Liquid crystal display** | **Organic light-emitting diode**
+*Measurements of performence* |**Size**| **Aspect ratio** | **Resolution**
+*Additional Features* | **Curved Design** | **3D** | **Touch Screen** | 
 
