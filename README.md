@@ -21,9 +21,9 @@
 ### 3. Project descripition
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
---- | --- | --- | --- | ---
-*History* | Monitor | Pretty | Monitor | Pretty
-*Technology* | `renders` | **nicely** | Monitor | Pretty
-*Measurements of performence* | 2 | 3 | Monitor | Pretty
-*Additional Features* | 2 | 3 | Monitor | Pretty
+--- | --- | --- | --- 
+*History* | Monitor | Pretty | Monitor 
+*Technology* | `renders` | **nicely** | Monitor 
+*Measurements of performence* | 2 | 3 | Monitor
+*Additional Features* | 2 | 3 | Monitor | 
 
