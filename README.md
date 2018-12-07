@@ -22,7 +22,7 @@
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
 --- | --- | --- | --- 
-*History* | Monitor | Pretty | Monitor 
+*History* | **Introduction** |  |  
 *Technology* | `renders` | **nicely** | Monitor 
 *Measurements of performence* | 2 | 3 | Monitor
 *Additional Features* | 2 | 3 | Monitor | 
