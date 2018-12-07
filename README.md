@@ -1,5 +1,5 @@
 # IT2600_FinalProject
-### Topic: The history of computer monitor
+### Topic: INtroduction to computer monitor and computer monitor develop history
 ### Name : Pinwen Xu
 ### Date : Dec 6th
 ### 1. Target Audience: 
@@ -26,5 +26,4 @@
 *History* | **[Introduction](https://www.google.com)**|  |  
 *Technology* | **[Cathode ray tube]** | **[Liquid crystal display]** | **[Organic light-emitting diode]**
 *Measurements of performence* |**[Size]**| **[Aspect ratio]** | **[Resolution]**
-*Additional Features* | **[Curved Design]** | **[3D]** | **[Touch Screen]** | 
 
