@@ -18,4 +18,10 @@
    
 ![Image of Monitor2](https://github.com/poi123456789/IT2600_FinalProject/blob/master/img/c04938915.png)
 
-### 3. 
+### 3. Project descripition
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
