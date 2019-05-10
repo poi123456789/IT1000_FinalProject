@@ -1,9 +1,9 @@
-# IT2600_FinalProject
+# IT1000_FinalProject
 ### Topic: INtroduction to computer monitor and computer monitor develop history
 ### Name : Pinwen Xu
-### Date : Dec 6th
+### Date : 2019/5/11
 ### 1. Target Audience: 
-    a. Student who take IT2600
+    a. Student who major in IT
     b. People who have interest on computer monitor.
 ### 2. Brief Introduction of Computer Monitor:
     a. This project is focus on introduction of computer monitor's history. 
