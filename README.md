@@ -23,7 +23,7 @@
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
 --- | --- | --- | --- 
-*History* | **[Introduction](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/history/README.md)**|  |  
-*Technology* | **[Cathode ray tube](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/technology/READEME2.md)** | **[Liquid crystal display](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/technology/README3.md)** | **[Organic light-emitting diode](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/technology/README4.md)**
-*Measurements of performence* |**[Size](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/measure/README1.md)**| **[Aspect ratio](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/measure/README2.md)** | **[Resolution](https://github.com/poi123456789/IT2600_FinalProject/blob/master/src/measure/README3.md)**
+*History* | **[Introduction](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/history/README.md)**|  |  
+*Technology* | **[Cathode ray tube](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/technology/READEME2.md)** | **[Liquid crystal display](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/technology/README3.md)** | **[Organic light-emitting diode](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/technology/README4.md)**
+*Measurements of performence* |**[Size](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/measure/README1.md)**| **[Aspect ratio](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/measure/README2.md)** | **[Resolution](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/measure/README3.md)**
 
